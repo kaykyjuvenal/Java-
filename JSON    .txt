@@ -1,0 +1,17 @@
+JSON    
+
+{
+    "data_entrada": "Asdrubal JoseaA",
+    "data_saida": "Asdrubal JosaeA"
+    ,
+    "mecanico": {
+        "nome": "Asdrubal JosSaeA",
+        "anos_experiencia": "Asdarubal JoseA"
+        }
+    ,
+    "veiculo":{
+        "marca": "Asdrubal JosseA",
+        "modelo": "Asdrubal JsodsaseA",
+        "ano": "Asdrubal JoseSAdsa"
+        }
+    }
